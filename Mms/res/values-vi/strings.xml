@@ -437,7 +437,6 @@
     <string name="summary_date_type">Tin nhắn dấu thời gian</string>
     <string name="dialog_title_date_type">Chọn tin nhắn dấu thời gian</string>
     <string name="generating_mms_to_forward">Tạo tin nhắn MMS chuyển tiếp...</string>
-<<<<<<< HEAD
     <string name="mi_msg">Cloud Message</string>
     <string name="mx_enable">Bật Cloud Message</string>
     <string name="mx_warning_notice">Một tin nhắn SMS sẽ được gửi để kích hoạt tin nhắn đám mây. Bình thường tàu tốc độ dữ liệu có thể áp dụng</string>
@@ -454,24 +453,6 @@
     <string name="mx_auto_resend_sms_summary">Nếu Như SMS Cloud Message không thể gửi được. Sẽ áp dụng tin nhắn của nhà cung cấp</string>
     <string name="mx_auto_resend_mms">Gửi lại MMS</string>
     <string name="mx_auto_resend_mms_summary">Nếu Như MMS Cloud Message không thể gửi được. Sẽ áp dụng tin nhắn của nhà cung cấp</string>
-=======
-    <string name="mi_msg">Tin nhắn đám mây</string>
-    <string name="mx_enable">Bật tin nhắn đám mây</string>
-    <string name="mx_warning_notice">Một tin nhắn SMS sẽ được gửi để kích hoạt tin nhắn đám mây. Bình thường tàu tốc độ dữ liệu có thể áp dụng</string>
-    <string name="mx_btn_enable">Bật</string>
-    <string name="mx_activating">Kích hoạt ... có thể mất một vài phút</string>
-    <string name="no_sim">SIM is absent, Cloud Message is unavailable</string>
-    <string name="ex_type_sms">SMS/MMS</string>
-    <string name="ex_type_mx">Cloud Message</string>
-    <string name="mx_activate_failure">Failed to activate Cloud Message</string>
-    <string name="mx_dspt_disabled">Send messages via Cloud Message between MIUI users. Send via carrier if network is unavailable.</string>
-    <string name="mx_dspt">Send messages via Internet between MIUI; send via carrier once failed</string>
-    <string name="mx_count_dspt">Since activation, MIUI has sent %d Cloud Message(s) for you</string>
-    <string name="mx_auto_resend_sms">Gửi lại SMS</string>
-    <string name="mx_auto_resend_sms_summary">Send as SMS when Cloud Message is unavailable. Carrier messaging rates may apply</string>
-    <string name="mx_auto_resend_mms">Gửi lại MMS</string>
-    <string name="mx_auto_resend_mms_summary">Send as MMS when Cloud Message is unavailable. Carrier messaging rates may apply</string>
->>>>>>> 318aa4cead3aa852fb04e5ebe67dfdff904275e4
     <string name="msg_type_hint_sms">Tin nhắn văn bản</string>
     <string name="msg_type_hint_mms">Tin nhắn đa phương tiện</string>
     <string name="msg_type_hint_mx">Cloud Message</string>
@@ -483,26 +464,16 @@
     <string name="mx_activate_hint_sim_change">Đã đổi SIM. Một tin nhắn SMS được yêu cầu để kích hoạt lại Cloud Message. Kích hoạt nó ngay bây giờ?</string>
     <string name="mx_activate_hint_malformed_info">Thông tin cá nhân của bạn bị gián đoạn. Một tin nhắn SMS được yêu cầu để kích hoạt lại Cloud Message. Kích hoạt nó bây giờ?</string>
     <string name="mx_activate_hint_server">Máy chủ từ chối để kích hoạt, kích hoạt không thành Cloud Message? Một tin nhắn SMS được yêu cầu để kích hoạt lại Cloud Message. Kích hoạt nó bây giờ?</string>
-    <string name="need_download">Waiting for sync...</string>
+    <string name="need_download">Chờ đồng bộ...</string>
     <string name="found_wild_messages_title">Tải tin nhắn về</string>
-<<<<<<< HEAD
     <string name="found_wild_messages">Đã tìm thấy tin nhắn của thẻ SIM khác trên Cloud Message:%sBạn có muốn tải về chúng?</string>
     <string name="found_old_messages_title">Tải tin nhắn lên</string>
     <string name="found_old_messages">Đã tìm thấy tin nhắn của tài khoản trước đó trên điện thoại của bạn :%1$s Bạn có muốn tải chúng lên tài khoản hiện tại của bạn %2$s?</string>
-=======
-    <string name="found_wild_messages">Found messages of other SIM cards on cloud:%sDo you want to download them?</string>
-    <string name="found_old_messages_title">Tải tin nhắn lên</string>
-    <string name="found_old_messages">Đã tìm thấy thư của tài khoản trước đó trên điện thoại của bạn :%1$s Bạn có muốn tải chúng lên tài khoản hiện tại của bạn %2$s?</string>
->>>>>>> 318aa4cead3aa852fb04e5ebe67dfdff904275e4
     <string name="show_all_messages">Hiện toàn bộ tin nhắn</string>
     <string name="loading_all_messages">Đang tải toàn bộ tin nhắn...</string>
     <string name="mx_online">Trực tuyến</string>
     <string name="mx_offline">Vắng mặt</string>
-<<<<<<< HEAD
     <string name="mx_enable_popup_msg">Cloud Message cho phép bạn gửi tin nhắn giữa người sử dụng MIUI. Để kích hoạt, một tin nhắn SMS sẽ được gửi đi. Giá nhà cung cấp tin nhắn có thể áp dụng, kích hoạt bây giờ? Nếu không, bạn có thể kích hoạt nó trong Cài đặt sau</string>
-=======
-    <string name="mx_enable_popup_msg">Cloud Message enables you to send messages between MIUI users. To activate, an SMS will be sent. Carrier messaging rates may apply, activate now? If not, you may enable it in Settings later</string>
->>>>>>> 318aa4cead3aa852fb04e5ebe67dfdff904275e4
     <string name="loading_mms">Đang chạy...</string>
     <string name="add_number_to_sender">Thêm số để gửi %s</string>
     <string name="in_calling">Đang gọi</string>
@@ -510,8 +481,4 @@
     <string name="in_sms">Tin nhắn</string>
     <string name="sms_sender">Nơi đến</string>
     <string name="sms_content">Nội dung là</string>
-<<<<<<< HEAD
 </resources>
-=======
-</resources>
->>>>>>> 318aa4cead3aa852fb04e5ebe67dfdff904275e4
