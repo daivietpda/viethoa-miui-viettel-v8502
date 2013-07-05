@@ -439,7 +439,7 @@
     <string name="generating_mms_to_forward">Tạo tin nhắn MMS chuyển tiếp...</string>
     <string name="mi_msg">Cloud Message</string>
     <string name="mx_enable">Bật Cloud Message</string>
-    <string name="mx_warning_notice">Một tin nhắn SMS sẽ được gửi để kích hoạt tin nhắn đám mây. Bình thường tàu tốc độ dữ liệu có thể áp dụng</string>
+    <string name="mx_warning_notice">Một tin nhắn SMS sẽ được gửi để kích hoạt Cloud Message nhắn tin miễn phí. Nếu bạn ở khác trung quốc không cần kích hoạt mà chỉ cần đăng ký tài khoản Xioami trong mục tài khoản và đồng bộ là chiến được</string>
     <string name="mx_btn_enable">Bật</string>
     <string name="mx_activating">Kích hoạt ... có thể mất một vài phút</string>
     <string name="no_sim">SIM không gắn, Cloud Message không dùng được</string>
