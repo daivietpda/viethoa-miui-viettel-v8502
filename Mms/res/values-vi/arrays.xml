@@ -87,16 +87,16 @@
         <item>vnd.android.cursor.item/note</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Shows received time</item>
-        <item>Shows sent time (server timestamp, may lack precision)</item>
+        <item>Xem thời gian nhận</item>
+        <item>Xem thời gian nhận (Máy chủ giấu thời gian , có thể không chính xác)</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
-        <item>Via message</item>
-        <item>Via Cloud message</item>
+        <item>Qua message</item>
+        <item>Qua Cloud message</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>Via message</item>
-        <item>Via Cloud message</item>
+        <item>Qua message</item>
+        <item>Qua Cloud message</item>
     </string-array>
     <string-array name="entryvalues_date_type">
         <item>0</item>

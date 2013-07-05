@@ -377,7 +377,7 @@
     <string name="pref_title_show_recent_contacts">Hiển thị liên lạc gần đây</string>
     <string name="pref_summary_show_recent_contacts">Hiển thị một danh sách các địa chỉ liên lạc gần đây trong khi soạn tin nhắn mới</string>
     <string name="pref_title_hide_festival">Ẩn tab</string>
-    <string name="pref_summary_hide_festival">Hide recommend tab for Non-Chinese language</string>
+    <string name="pref_summary_hide_festival">Ẩn tab khuyên dùng cho ngôn ngữ không phải Trung Quốc</string>
     <string name="pref_key_append_signature_title">Chử ký tùy chọn</string>
     <string name="pref_key_append_signature_summary">Tự động thêm chữ ký cuối tin nhắn</string>
     <string name="pref_key_edit_signature_title">Chỉnh sủa chử ký</string>
@@ -423,7 +423,7 @@
     <string name="pref_summary_off_system_mms_priority">Ứng dụng khác có thể được phát sóng MMS trước khi hệ thống ứng dụng MMS nhận được nó</string>
     <string name="title_timed_message_dialog">Xin cấu hình thời gian của tin nhắn hẹn giờ này</string>
     <string name="will_send_at">Sẽ gửi tại: %s</string>
-    <string name="error_timed_msg">Cannot schedule a time before now</string>
+    <string name="error_timed_msg">Không thể sắp xếp theo thời gian trước ngay bây giờ</string>
     <string name="menu_timed_message">Tin nhắn hẹn giờ</string>
     <string name="to_send_wrapper">Sẽ gửi tại %s</string>
     <string name="group_message">Tin nhắn nhóm</string>
