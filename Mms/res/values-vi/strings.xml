@@ -3,7 +3,7 @@
     <string name="conversation_style">bubble</string>
     <string name="prefDefault_ringtone_repeat">1</string>
     <string name="pref_summary_manage_sim_messages">Quản lý tin nhắn được lưu trữ trên thẻ SIM của bạn</string>
-    <string name="pref_title_manage_sim_messages">Manage SIM card messages</string>
+    <string name="pref_title_manage_sim_messages">Quản lý tin nhắn trên SIM</string>
     <string name="confirm_delete_all_SIM_messages">Delete all SIM messages?</string>
     <string name="confirm_delete_SIM_message">Delete this SIM message?</string>
     <string name="sim_manage_messages_title">Text messages on SIM card</string>
