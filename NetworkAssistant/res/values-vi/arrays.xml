@@ -6,22 +6,22 @@
         <item>@string/menu_sort_by_all_traffic</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Traffic of yesterday</item>
-        <item>Traffic of today</item>
-        <item>Traffic of the month</item>
+        <item>Traffic hôm qua</item>
+        <item>Traffic hôm nay</item>
+        <item>Traffic tháng này</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Yesterday 2G/3G</item>
-        <item>Today 2G/3G</item>
-        <item>This month 2G/3G</item>
-        <item>Yesterday WLAN</item>
-        <item>Today WLAN</item>
-        <item>This month WLAN</item>
+        <item>Hôm qua 2G/3G</item>
+        <item>Hôm nay 2G/3G</item>
+        <item>Tháng này 2G/3G</item>
+        <item>Hôm qua WLAN</item>
+        <item>Hôm nay WLAN</item>
+        <item>Tháng này WLAN</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Yesterday 2G/3G</item>
-        <item>Today 2G/3G</item>
-        <item>This month 2G/3G</item>
+        <item>Hôm qua 2G/3G</item>
+        <item>Hôm nay 2G/3G</item>
+        <item>Tháng này 2G/3G</item>
     </string-array>
     <string-array name="traffic_uints">
         <item>" B"</item>
