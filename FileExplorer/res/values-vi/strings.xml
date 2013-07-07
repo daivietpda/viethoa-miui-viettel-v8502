@@ -85,7 +85,7 @@
     <string name="search_title">Tìm</string>
     <string name="search_hint">Nhập tất cả hoặc một phần của tên tệp</string>
     <string name="dialog_select_type">Chọn kiểu</string>
-    <string name="dialog_type_text">Text other</string>
+    <string name="dialog_type_text">Văn bản khác</string>
     <string name="dialog_type_audio">Âm thanh</string>
     <string name="dialog_type_video">Video</string>
     <string name="dialog_type_image">Ảnh</string>
@@ -96,22 +96,22 @@
     <string name="remote_management">FTP</string>
     <string name="multi_select_title">%1$sselected</string>
     <string name="tab_networkdisk">KuaiPan</string>
-    <string name="operation_download_link">Generate download kink</string>
-    <string name="ui_filechange_btn_download">Download files</string>
-    <string name="show_message">File cannot be open without downloading</string>
-    <string name="ui_main_progress_txt_open_file">Downloading…</string>
-    <string name="networkView_notConnected">No available network</string>
-    <string name="networkView_offline">Offline mode, refreshing directory temporarily disabled</string>    <string name="ui_main_toast_favorite_removed">Favorite(s) removed</string>
-    <string name="ui_main_toast_operation_failed">Unfavorite operation failed for %1$s.</string>
-    <string name="user_guide">User guide</string>
-    <string name="user_guide_summary">How to use KuaiPan</string>
-    <string name="rename_failed">Failed to rename %1$s</string>
-    <string name="ui_bar_txt_download_progress">%1$d file(s) left to download</string>
-    <string name="ui_bar_txt_upload_progress">%1$d file(s) left to upload</string>
-    <string name="ui_main_menu_option_task_manage">Transfer management</string>
-    <string name="login_reg_content0">KuaiPan is your Net Disk</string>
-    <string name="login_reg_content">KuaiPan helps you store files and sync as well as read them with multiple devices.</string>
-    <string name="login_reg_login_xiaomi">Login to Xiaomi account</string>
+    <string name="operation_download_link">Tạo tải xoắn</string>
+    <string name="ui_filechange_btn_download">Tải file</string>
+    <string name="show_message">Tập tin không thể mở mà không cần tải</string>
+    <string name="ui_main_progress_txt_open_file">Đang tải…</string>
+    <string name="networkView_notConnected">Mạng không có sẵn</string>
+    <string name="networkView_offline">Chế độ ofline, thư mục làm mới tạm thời bị vô hiệu hóa</string>    <string name="ui_main_toast_favorite_removed">Yêu thích loại bỏ</string>
+    <string name="ui_main_toast_operation_failed">Hành động không yêu thích thất bại bởi %1$s.</string>
+    <string name="user_guide">Hướng dẫn người dùng</string>
+    <string name="user_guide_summary">Cách sử dụng KuaiPan</string>
+    <string name="rename_failed">Không thể đổi tên %1$s</string>
+    <string name="ui_bar_txt_download_progress">%1$d file còn lại để tải về</string>
+    <string name="ui_bar_txt_upload_progress">%1$d file còn lại để tải lên</string>
+    <string name="ui_main_menu_option_task_manage">Quản lý chuyển giao</string>
+    <string name="login_reg_content0">KuaiPan là nơi lưu trữ online của bạn</string>
+    <string name="login_reg_content">KuaiPangiúp bạn lưu trữ dữ liệu và đồng bộ cũng như đọc chúng trên nhiều thiết bị khác nhau.</string>
+    <string name="login_reg_login_xiaomi">Đăng nhập vào tài khoản Xiaomi</string>
     <string name="start_use_xiaomi_account">Bắt đầu sử dụng</string>
     <string name="pan_settting">Cài đặt MiDrive</string>
     <string name="xiaomi_account">Tài khoản Xiaomi</string>
@@ -119,32 +119,30 @@
     <string name="local_cache">Bộ nhớ đệm cục bộ</string>
     <string name="clear_cache">Xoá cache</string>
     <string name="used">Đã dùng</string>
-    <string name="loading">Loading</string>
-    <string name="load_err">Loading failed</string>
+    <string name="loading">Đang thực hiện</string>
+    <string name="load_err">Lỗi thục hiện</string>
     <string name="local_cache_size">Kích thước bộ nhớ cache: %s</string>
     <string name="net_lose_connected">Mạng không khả dụng, không thể nhận được kích thước</string>
     <string name="wangpan_root_path">Ổ đĩa của tôi</string>
     <string name="kuaipan_over_space">MiDrive của bạn không có dung lượng trống.</string>
     <string name="kuaipan_tech_support">Hỗ trợ kỹ thuật được cung cấp bởi Kingsoft Kuaipan</string>
     <string name="no_tasks">Không có tác vụ</string>
-    <string name="create_new_folder_failed">Failed to create folder %1$s</string>
-    <string name="slide_left_text">Slide to the left</string>
-    <string name="guide_copy_to_sdcard">Copy file(s) from SD card to KuaiPan</string>
-    <string name="guide_access_files_through_web">"Your file can be viewed 
- on any computer connected to Internet"</string>
-    <string name="guide_access_files_through_phone">"You can also upload files via webpages, 
- and they will be displayed in the phone's KuaiPan"</string>
-    <string name="guide_advance_tech">Advanced techniques</string>
-    <string name="guide_manage_files_through_computer">"You can easily manage files 
- in KuaiPan on your computer"</string>
-    <string name="guide_senior_tech">Senior Techniques</string>
-    <string name="guide_install_app_on_several_computers">Install the KuaiPan client on multiple computers</string>
-    <string name="guide_changes_sync">"Sync changes over all your devices 
- It's so easy!"</string>
-    <string name="guide_congratulation_know_all">"Congratulations! You have learned all the techniques!
- Start using KuaiPan right now!"</string>
-    <string name="guide_login_url">"Please visit 
-www.kuaipan.cn on your computer"</string>
+    <string name="create_new_folder_failed">Không thể tạo thư mục %1$s</string>
+    <string name="slide_left_text">Trượt sang bên trái</string>
+    <string name="guide_copy_to_sdcard">Sao chéo tập tin từ thẻ nhớ sang KuaiPan</string>
+    <string name="guide_access_files_through_web">"Tập tin của bạn có thể xem trên bất kỳ máy tính nào có kết nối mạng"</string>
+    <string name="guide_access_files_through_phone">"Bạn cũng có thể tải lên các tập tin thông qua trang web, 
+ và chúng sẽ hiển thị trên điện thoại của KuaiPan"</string>
+    <string name="guide_advance_tech">Kỹ thuật tiên tiến</string>
+    <string name="guide_manage_files_through_computer">"Bạn có thể dễ dàng quản lý file 
+ trong KuaiPan trên máy tính của bạn"</string>
+    <string name="guide_senior_tech">Kỹ thuật cao cấp</string>
+    <string name="guide_install_app_on_several_computers">Cài đặt máy khách KuaiPan trên nhiều máy tính</string>
+    <string name="guide_changes_sync">"Đồng bộ những thay đổi trên tất cả các thiết bị của bạn thật dễ dàng!"</string>
+    <string name="guide_congratulation_know_all">"Chúc mừng! Bạn đã học hết các kỹ thuật!
+ Bắt đầu sử dụng KuaiPan ngay nào!"</string>
+    <string name="guide_login_url">"Vui lòng truy cập 
+www.kuaipan.cn trên máy tính của bạn"</string>
     <string name="guide_download_install_apk">Tải và cài đặt Midrive client</string>
     <string name="guide_begin_to_use">Bắt đầu bằng cách sử dụng MiDrive</string>
     <string name="upload_file_toolarge_message">%1$d tập tin lớn hơn 300 M không được tải lên. Vui lòng kiểm tra Transfer Management để biết chi tiết.</string>
@@ -177,17 +175,17 @@ www.kuaipan.cn on your computer"</string>
     <string name="decompress_cancel">Hủy</string>
     <string name="kuaipan_prompt">MiDrive tip</string>
     <string name="kuaipan_prompt_message">"
- The server is down for maintenance. Please try again later…
+ Máy chủ đang bảo trì. Thử lại sau…
 "</string>
     <string name="move_failed">Lỗi cắt</string>
-    <string name="copy_failed">Failed to copy</string>
-    <string name="delete_failed">Failed to delete</string>
-    <string name="toast_file_not_can_read">The file is unreadable.</string>
-    <string name="server_control_settings">Settings</string>
-    <string name="server_control_advanced_settings">Advanced settings</string>
-    <string name="server_control_charset">Transfer encoding</string>
+    <string name="copy_failed">Lỗi sao chép</string>
+    <string name="delete_failed">Lỗi xóa</string>
+    <string name="toast_file_not_can_read">Không thể đọc tập tin.</string>
+    <string name="server_control_settings">Cài đặt</string>
+    <string name="server_control_advanced_settings">Cài đặt nâng cao</string>
+    <string name="server_control_charset">Chuyển mã hóa</string>
     <string name="utf8_title">UTF-8</string>
-    <string name="utf8_summary">System FTP default encoding</string>
+    <string name="utf8_summary">Hệ thông mã hóa mặc định FTP</string>
     <string name="gbk_title">GBK</string>
     <string name="gbk_summary">If you are using Window’s File Explorer GBK encoding tools, choose this encoding to avoid Chinese coding issues</string>
     <string name="stay_awake_title">Keep awake</string>
