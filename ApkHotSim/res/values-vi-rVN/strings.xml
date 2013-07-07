@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, SimCardSwitcherActivity!</string>
-    <string name="app_name">apkhotSim</string>
-    <string name="sim_info_title">Mobile Info</string>
-    <string name="no_sim_title">No Sim Card</string>
-    <string name="sim1_title">SimCard 1</string>
-    <string name="sim2_title">SimCard2</string>
-    <string name="default_sim_settings">Default SimCard Settings</string>
-    <string name="voice_call_sim_title">Voice Call</string>
+    <string name="hello">Xin chào, SimCardSwitcherActivity!</string>
+    <string name="app_name">Quản lý SIM</string>
+    <string name="sim_info_title">Thông tin SIM</string>
+    <string name="no_sim_title">Không có thẻ SIM</string>
+    <string name="sim1_title">SIM 1</string>
+    <string name="sim2_title">SIM 2</string>
+    <string name="default_sim_settings">Cài đặt mặc định cho SIM</string>
+    <string name="voice_call_sim_title">Gọi điện</string>
     <string name="sms_mms_sim_title">SmsMms</string>
-    <string name="data_connection_sim_title">Data Connection</string>
-    <string name="no_simcard">No SimCard</string>
-    <string name="sim_turnoff">Turn Off</string>
-    <string name="no_sim_summary">No SimCard</string>
-    <string name="error_title">Error</string>
-    <string name="menu_about">About</string>
+    <string name="data_connection_sim_title">Dữ liệu</string>
+    <string name="no_simcard">Không có sim</string>
+    <string name="sim_turnoff">Tắt</string>
+    <string name="no_sim_summary">Không có SIM</string>
+    <string name="error_title">lỗi</string>
+    <string name="menu_about">Thông tin</string>
     <string name="about_content">本软件属于安热为MIUI FOR MTK6577的sim卡切换特别制作</string>
     <string name="close">close</string>
     <string name="sun_miui">MIUI</string>
