@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_format">
+        <item quantity="other">%d bài hát</item>
+        <item quantity="one">%d bài hát</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">bài hát</item>
+        <item quantity="one">bài hát</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">albums</item>
+        <item quantity="one">album</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">nghệ sĩ</item>
+        <item quantity="one">nghệ sĩ</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">danh sách phát</item>
+        <item quantity="one">danh sách bài hát</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">thư mục</item>
+        <item quantity="one">thư mục</item>
+    </plurals>
+    <plurals name="Ntracks_batch_selection">
+        <item quantity="other">%d bài hát được lựa chọn</item>
+        <item quantity="one">%d bài hát được chọn</item>
+    </plurals>
+    <plurals name="Nalbums_batch_selection">
+        <item quantity="other">%d album được lựa chọn</item>
+        <item quantity="one">%d album được chọn</item>
+    </plurals>
+    <plurals name="Nartists_batch_selection">
+        <item quantity="other">%d nghệ sĩ được lựa chọn</item>
+        <item quantity="one">%d nghệ sĩ được lựa chọn</item>
+    </plurals>
+    <plurals name="Nfolders_batch_selection">
+        <item quantity="other">%d thư mục được chọn</item>
+        <item quantity="one">%d thư mục được chọn</item>
+    </plurals>
+    <plurals name="Nplaylists_batch_selection">
+        <item quantity="other">%d danh sách chơi được chọn</item>
+        <item quantity="one">%d danh sách chơi được chọn</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">Có bài hát %d thẻ SD</item>
+        <item quantity="one">%d bài hát trong thẻ SD có</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d bài hát mới nhất được gửi vào danh sách phát.</item>
+        <item quantity="one">1 bài hát bổ sung vào danh sách phát.</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">%d bài hát mới nhất được gửi vào danh sách phát.</item>
+        <item quantity="one">1 bài hát bổ sung vào danh sách phát.</item>
+    </plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">hạng mục</item>
+        <item quantity="one">danh mục</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, %2$d bài hát</item>
+        <item quantity="one">%1$s, %2$d bài hát</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d bài hát đã được xóa.</item>
+        <item quantity="one">1 bài hát đã được xóa.</item>
+
+    </plurals>
+</resources>
