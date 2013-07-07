@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Quản lý ROOT</string>
+    <string name="app_name">Q.lý Quyền</string>
     <string name="Generic_Copyright">Powered by LBE Privacy Guard</string>
     <string name="Generic_Version">Version: %1$s</string>
     <string name="Generic_Configuration">Cài đặt</string>
