@@ -188,7 +188,7 @@ settings -> accounts &amp; sync
     <string name="prepaid_error_carrier">Vui lòng chọn nhà cung cấp của bạn</string>
     <string name="prepaid_error_denomination">Vui lòng chọn số lượng nạp tiền</string>
     <string name="prepaid_error_card_number">Vui lòng nhập chính xác số tiền nạp tiền</string>
-    <string name="prepaid_error_password">Please input the correct prepaid card password</string>
+    <string name="prepaid_error_password">Vui lòng nhập chính xác mật mã nạp tiền</string>
     <string name="prepaid_error_card_length">Please input the correct prepaid card number or password</string>
     <string name="progress_submit_title">Yêu cầu nạp tiền đã gửi</string>
     <string name="progress_submit_summary">Nạp tiền: %1$s RMB</string>
@@ -196,7 +196,7 @@ settings -> accounts &amp; sync
     <string name="btn_count_down_auto">%1$s giây</string>
     <string name="btn_count_down_wait">%1$s giây để chờ</string>
     <string name="btn_query">Hỏi thông tin bây giờ</string>
-    <string name="progress_querying">Processing recharge inquiry…</string>
+    <string name="progress_querying">Đang kiểm tra nạp tiền…</string>
     <string name="progress_success_title">%1$s nạp tiền tín dụng Mi hoàn tất</string>
     <string name="progress_success_summary">Số dư tài khoản: %1$s tín dụng Mi</string>
     <string name="progress_error_title">Nạp tiền thất bại</string>
