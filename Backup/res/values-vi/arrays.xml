@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>WLAN data</item>
-        <item>All programs</item>
+        <item>Dữ liệu WLAN</item>
+        <item>Tất cả APP</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Browser</item>
-        <item>File explorer</item>
-        <item>Gallery</item>
-        <item>Permission manager</item>
+        <item>Trình duyệt</item>
+        <item>Quản lý file</item>
+        <item>Ảnh</item>
+        <item>Quản lý root</item>
         <item>Camera</item>
-        <item>Network assistant</item>
-        <item>Weather Storage</item>
+        <item>Quản lý mạng</item>
+        <item>Thời tiết</item>
     </string-array>
     <string-array name="system_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>Multimedia messages</item>
-        <item>System settings</item>
-        <item>WLAN settings</item>
-        <item>Desktop layout</item>
-        <item>Alarm settings</item>
-        <item>Notes</item>
+        <item>Danh bạ</item>
+        <item>N.ký cuộc gọi</item>
+        <item>Tin nhắn SMS</item>
+        <item>Tin nhắn MMS</item>
+        <item>Cài đặt hệ thống</item>
+        <item>Cài đặt WLAN</item>
+        <item>Mình hình home</item>
+        <item>C.đặt Hẹn giờ</item>
+        <item>Ghi chú</item>
         <item>DND</item>
-        <item>Account</item>
+        <item>Tài khoản</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>Data</item>
-        <item>Programs</item>
-        <item>Programs and data</item>
+        <item>Dữ liệu</item>
+        <item>Ch.trình</item>
+        <item>Ch.trình và dữ liệu</item>
     </string-array>
     <string-array name="cloud_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>WLAN settings</item>
-        <item>Notes</item>
+        <item>Danh bạ</item>
+        <item>Nh.ký cuộc gọi</item>
+        <item>Tin nhắn</item>
+        <item>WLAN</item>
+        <item>Ghi chú</item>
     </string-array>
     <string-array name="cloud_account_data">
-        <item>Contacts</item>
-        <item>WLAN settings</item>
-        <item>Notes</item>
+        <item>Danh bạ</item>
+        <item>WLAN</item>
+        <item>Ghi chú</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Call logs</item>
-        <item>Messages</item>
+        <item>Nh.ký cuộc gọi</item>
+        <item>Tin nhắn</item>
     </string-array>
 </resources>

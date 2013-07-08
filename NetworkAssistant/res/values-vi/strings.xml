@@ -12,7 +12,7 @@
     <string name="widget_color_exceed_warn">\#F9882C</string>
     <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
     <string name="widget_color_used_all">\#C00203</string>
-    <string name="app_name">Trình quản lý dữ liệu mạng</string>
+    <string name="app_name">Q.lý dữ liệu</string>
     <string name="used_flux">Sử dụng băng thông</string>
     <string name="sorted_flux">Xếp hạng lưu lượng truy cập</string>
     <string name="menu_settings">Cài đặt</string>
