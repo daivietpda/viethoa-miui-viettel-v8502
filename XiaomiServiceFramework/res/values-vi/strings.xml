@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="xmpp_server_addr" />
-    <string name="app_name">Xiaomi service framework</string>
-    <string name="account">Account</string>
-    <string name="account_hint_text">Email/Phone number</string>
-    <string name="login">Sign in</string>
-    <string name="basic_info">Basic information</string>
-    <string name="next">Next</string>
-    <string name="prev">Back</string>
-    <string name="forget_password"><u>Forgot password</u></string>
-    <string name="password">Password</string>
-    <string name="password_hint_text">6~16 chars</string>
-    <string name="bad_authentication">Authentication failed. Invalid username or password.</string>
-    <string name="micloud_welcome_banner">Xiaomi account</string>
-    <string name="micloud_welcome_skip_login"><u>Skip this step</u></string>
-    <string name="micloud_account_name">Xiaomi account</string>
+    <string name="app_name">Tài khoản Xiaomin</string>
+    <string name="account">Tài khoản</string>
+    <string name="account_hint_text">Email/Số điện thoại</string>
+    <string name="login">Đang nhập</string>
+    <string name="basic_info">Thông tin cơ bản</string>
+    <string name="next">Tiếp theo</string>
+    <string name="prev">Trở lại</string>
+    <string name="forget_password"><u>Quên mật khẩu</u></string>
+    <string name="password">Mật khẩu</string>
+    <string name="password_hint_text">6~16 kí tự</string>
+    <string name="bad_authentication">Lỗi xác nhận. Sai tên đăng nhập hoặc mật khẩu.</string>
+    <string name="micloud_welcome_banner">Tài khoản Xiaomin</string>
+    <string name="micloud_welcome_skip_login"><u>Bỏ qua bước này</u></string>
+    <string name="micloud_account_name">Tài khoản Xiaomin</string>
     <string name="micloud_title">MiCloud</string>
-    <string name="micloud_log_prompt">Sign in Xiaomi account</string>
+    <string name="micloud_log_prompt">Đang nhập tài khoản Xiaomin</string>
     <string name="micloud_use_existing">Existing</string>
     <string name="micloud_reg_new">New</string>
     <string name="micloud_error_empty_username">User is blank</string>
